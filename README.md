@@ -2,10 +2,10 @@
 
 <div align="center">
 
-  <img src="todolist.jpg" alt="logo" width="140"  height="auto" />
+  <img src="todolist.jpg" alt="logo" width="240"  height="auto" />
   <br/>
 
-  <h3><b>JavaScript capstone project: Your API-based webapp</b></h3>
+  <h3><b>To do list</b></h3>
 
 </div>
 
