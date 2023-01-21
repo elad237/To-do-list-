@@ -1,3 +1,14 @@
+<a name="readme-top"></a>
+
+<div align="center">
+
+  <img src="todolist.jpg" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>JavaScript capstone project: Your API-based webapp</b></h3>
+
+</div>
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
