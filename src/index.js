@@ -3,6 +3,8 @@ import Dots from './images/dots.png';
 import Enter from './images/enter.png';
 import Bin from './images/bin.png';
 import Refresh from './images/refresh.png';
+import Store from './StoreClass.js';
+import Task from './TaskClass.js';
 
 const refreshContainer = document.querySelector('.refresh-container');
 const refresh = new Image();
