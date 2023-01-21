@@ -13,6 +13,7 @@
 
 - [📖 About the Project](#about-project)
 - [💻 Getting Started](#getting-started)
+ -[🚀 Live Demo](#live-demo)
 - [Setup](#setup)
 - [Run tests](#run-tests)
 - [👥 Authors](#authors)
@@ -32,6 +33,13 @@
 - Technologies used Javascript web pack
 
 ## Important Links
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://github.com/elad237/To-do-list-/dist/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 
