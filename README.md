@@ -65,6 +65,10 @@ git clone https://github.com/elad237/To-do-list-.git
 ### Usage
 
 For making any changes to the project the clone the project-
+ ```
+  npm run start
+  npm build
+  ```
 
 ### Run tests
 
